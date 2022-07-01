@@ -3,7 +3,7 @@ var switch_off_button=document.getElementById("switch_off");
 var image=document.getElementById("bulb");
 
 function switchOn(){
-  image.setAttribute("src","light-on.jpg");
+  image.setAttribute("src","Light-on.jpg");
 }
 function switchOff(){
   image.setAttribute("src","light-off.jpg");
